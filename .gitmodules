@@ -1,0 +1,3 @@
+[submodule "game-console"]
+	path = game-console
+	url = https://github.com/gamecorev2/game-console
